@@ -1,3 +1,5 @@
+!!THIS IS A CLONE NOT THE ORIGINAL THE ORIGINAL IS AT https://github.com/chrisantonellis/gbtdg.git FULL CREDIT TO CHISANTONELLIS!!
+
 Gameboy Tile Data Generator (gbtdg)
 ==============
 v1.3.1
